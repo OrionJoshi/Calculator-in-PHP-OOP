@@ -1,3 +1,8 @@
+<?php 
+    declare(strict_types = 1);
+    include 'includes/class-autoload.inc.php';
+
+?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
